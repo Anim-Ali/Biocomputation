@@ -1,0 +1,97 @@
+   data temp;
+   temp = (data){.variables = {0, 0, 0, 0, 0}, .class = 0};
+   data_set[0] = temp;
+
+   temp = (data){.variables = {0, 0, 0, 0, 1}, .class = 0};
+   data_set[1] = temp;
+
+   temp = (data){.variables = {0, 0, 0, 1, 0}, .class = 0};
+   data_set[2] = temp;
+
+   temp = (data){.variables = {0, 0, 0, 1, 1}, .class = 1};
+   data_set[3] = temp;
+
+   temp = (data){.variables = {0, 0, 1, 0, 0}, .class = 0};
+   data_set[4] = temp;
+
+   temp = (data){.variables = {0, 0, 1, 0, 1}, .class = 1};
+   data_set[5] = temp;
+
+   temp = (data){.variables = {0, 0, 1, 1, 0}, .class = 1};
+   data_set[6] = temp;
+
+   temp = (data){.variables = {0, 0, 1, 1, 1}, .class = 0};
+   data_set[7] = temp;
+
+   temp = (data){.variables = {0, 1, 0, 0, 0}, .class = 0};
+   data_set[8] = temp;
+
+   temp = (data){.variables = {0, 1, 0, 0, 1}, .class = 1};
+   data_set[9] = temp;
+
+   temp = (data){.variables = {0, 1, 0, 1, 0}, .class = 1};
+   data_set[10] = temp;
+
+   temp = (data){.variables = {0, 1, 0, 1, 1}, .class = 0};
+   data_set[11] = temp;
+
+   temp = (data){.variables = {0, 1, 1, 0, 0}, .class = 1};
+   data_set[12] = temp;
+
+   temp = (data){.variables = {0, 1, 1, 0, 1}, .class = 0};
+   data_set[13] = temp;
+
+   temp = (data){.variables = {0, 1, 1, 1, 0}, .class = 0};
+   data_set[14] = temp;
+
+   temp = (data){.variables = {0, 1, 1, 1, 1}, .class = 1};
+   data_set[15] = temp;
+
+   temp = (data){.variables = {1, 0, 0, 0, 0}, .class = 0};
+   data_set[16] = temp;
+
+   temp = (data){.variables = {1, 0, 0, 0, 1}, .class = 1};
+   data_set[17] = temp;
+
+   temp = (data){.variables = {1, 0, 0, 1, 0}, .class = 1};
+   data_set[18] = temp;
+
+   temp = (data){.variables = {1, 0, 0, 1, 1}, .class = 0};
+   data_set[19] = temp;
+
+   temp = (data){.variables = {1, 0, 1, 0, 0}, .class = 1};
+   data_set[20] = temp;
+
+   temp = (data){.variables = {1, 0, 1, 0, 1}, .class = 0};
+   data_set[21] = temp;
+
+   temp = (data){.variables = {1, 0, 1, 1, 0}, .class = 0};
+   data_set[22] = temp;
+
+   temp = (data){.variables = {1, 0, 1, 1, 1}, .class = 1};
+   data_set[23] = temp;
+
+   temp = (data){.variables = {1, 1, 0, 0, 0}, .class = 1};
+   data_set[24] = temp;
+
+   temp = (data){.variables = {1, 1, 0, 0, 1}, .class = 0};
+   data_set[25] = temp;
+
+   temp = (data){.variables = {1, 1, 0, 1, 0}, .class = 0};
+   data_set[26] = temp;
+
+   temp = (data){.variables = {1, 1, 0, 1, 1}, .class = 1};
+   data_set[27] = temp;
+
+   temp = (data){.variables = {1, 1, 1, 0, 0}, .class = 0};
+   data_set[28] = temp;
+
+   temp = (data){.variables = {1, 1, 1, 0, 1}, .class = 1};
+   data_set[29] = temp;
+
+   temp = (data){.variables = {1, 1, 1, 1, 0}, .class = 1};
+   data_set[30] = temp;
+
+   temp = (data){.variables = {1, 1, 1, 1, 1}, .class = 0};
+   data_set[31] = temp;
+
